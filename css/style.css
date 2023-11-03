@@ -181,25 +181,3 @@
 .clr{
     clear: both;
 }
-
-.about-item h3{
-    color:#333333;
-    font-family: 'Source Sans Pro',sans-serif;
-    font-size: 24px;
-    line-height:26.4px;
-    font-weight:600;
-}
-.about-item p{
-    color:#555555;
-    font-family: 'Roboto',sans-serif;
-    font-size: 16px;
-    line-height: 25px;
-    font-weight: 400;
-}
-.about-item{
-    background-color: #f12;
-   float: left;
-   /* position: relative; */
-   
-   text-align: center;
-}
